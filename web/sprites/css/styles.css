@@ -1,0 +1,9 @@
+.sprite {
+    height:45px;
+    width:45px;
+    background: url('../images/sprites.gif');
+}
+
+.sprite:hover {
+    background-position: 0 44px;
+}

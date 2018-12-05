@@ -1,0 +1,414 @@
+.caja1 {
+    height: 40px;
+    width: 100%;
+    background: #5031A4;
+}
+
+
+.info {
+    float: left;
+    margin-left: 100px;
+    margin-right: -70px;
+    padding-top: 2vh;
+}
+
+.info i {
+    color: #fff;
+
+}
+
+a {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.caja2 {
+    margin-right: 70px;
+
+}
+
+.redes {
+    float:right;
+    color: #fff;
+    padding-top: 12px;
+    margin-right: 20px;
+}
+
+.redes i {
+    font-size: 17px;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background: #653EB3;
+}
+
+header img {
+    margin-top: 17px;
+    margin-left: 85px;
+    float:left;
+}
+
+header nav {
+    height: 15px;
+    float:right;
+}
+
+header nav ul {
+    list-style-type:none;
+    margin-top: 20px;
+    margin-right:70px;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.dropdown {
+    position:relative;
+    display:inline-block;
+    padding:20px;
+}
+
+.dropdown-content {
+    display:none;
+    position:absolute;
+    color: black;
+    background-color:#fff;
+    min-width:100px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dropdown:hover .dropdown-content {
+    display:block;
+}
+
+main {
+    height: 500px;
+    width: 100%;
+    background-image: url('../img/sanfrancisco.jpg');
+    background-size:cover;
+    display: block;
+}
+
+.about {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    padding-top: 30px;
+}
+
+.parrafo {
+    font-family: 'Roboto', sans-serif;
+    color:#555;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.alto {
+    padding-top: 30px
+}
+
+.boton {
+    background-color: #fa4380;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+section {
+    background-color: #fafafa;
+}
+
+section h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+section p {
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    text-align: center;
+}
+
+.card {
+    width:19.5%;
+    margin: 100px 2.5%;
+    display: inline-block;
+    color: #555;
+    font-family: sans-serif;
+}
+
+.card i {
+    color: #fa4380;
+    font-size: 50px;
+    margin-left: 40%;
+}
+
+.card h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    padding: 1px 16px;
+}
+
+.about2 {
+    height: 90px;
+    width: 100%;
+    background: #653EB3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.advice {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin-right: 200px;
+}
+
+.alto2 {
+    margin-left: 200px;
+    padding-top: 5px;
+}
+
+.boton2 {
+    background-color: #fa4380;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.destinos {
+    height: 1250px;
+    background-color: #fafafa;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.popular {
+    padding-top: 50px;
+    margin-left: 70px;
+}
+
+.gallery {
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 20px;
+    float: left;
+    width: 350px;
+}
+
+.gallery:hover {
+    border: 1px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: left;
+}
+
+
+.bdestino {
+    background-color: #fa4380;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.about3 {
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descuentos {
+    padding-top: 7px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    margin-right: 200px;
+}
+
+.alto3 {
+    margin-left: 200px;
+    padding-top: 5px;
+    color: #555;
+}
+
+form {
+    padding-top: 1px;
+}
+
+input {
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 13px 10px;
+    border: none;
+    border-bottom: 1px solid;
+}
+
+.botoncool {
+    margin-left: 10px;
+}
+
+.botoncito h5 {
+    background-color: white;
+    border: none;
+    color: #fa4380;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.testimonials {
+    height: 700px;
+    background-color: #fafafa;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.testimonios {
+    padding-top: 50px;
+    margin-left: 70px;
+}
+
+.descripcion img {
+    height: 80px;
+    border-radius: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.descripcion {
+    width: 550px;
+    float: left;
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 25px;
+    margin-left: 70px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.align {
+    padding-right: 20px;
+    color: #555;
+}
+
+hr {
+    border: 0.5px solid #555;
+}
+
+footer {
+    height: 200px;
+    width: 100%;
+    background: #653EB3;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+footer nav {
+    padding-left: 40px;
+    height: 15px;
+    float:left;
+}
+
+footer nav ul {
+    list-style-type:none;
+    margin-top: 20px;
+    margin-right:70px;
+}
+
+footer nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.redes1 {
+    padding-top: 30px;
+    margin-right: 100px;
+}
+
+
+footer hr {
+    margin-top: 10vh;
+    margin-left: 70px;
+    margin-right: 110px;
+    border: 0.5px solid #fafafa;
+}
+
+.ultimo {
+    float: left;
+}
+
+.left {
+    margin-top: 20px;
+    float: left;
+    margin-left: 70px;
+    margin-right: 110px;
+}
+
+.right {
+    margin-top: 20px;
+    float: right;
+    margin-left: 200px;
+}
+

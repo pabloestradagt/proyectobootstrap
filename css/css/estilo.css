@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+}
+
+h2 {
+    color:white;
+}
+
+div {
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color:rgb(50, 154, 50);
+}
+
+li {
+    display:inline;
+    margin-left:2em;
+}
+
+a {
+    color:white;
+}
+
+a:hover {
+    padding:21px 15px 21px 15px;
+    background-color:hsl(210, 51%, 40%);
+}
+
+a:active {
+    text-decoration:underline;
+}

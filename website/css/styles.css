@@ -1,0 +1,56 @@
+:root {
+    --buildawow-pink: #002EAC;
+    --buildawow-blue: #FF3770;
+    --buildawow-pink: pink;
+
+}
+
+body {
+    font-family: 'monospace', sans-serif;
+    background: var(--buildawow-pink);
+
+}
+
+h1 {
+    font-weight: 900;
+    font-family: montserrat;
+}
+
+h2 {
+    font-weight: 600;
+    color: var(--buildawow-blue);
+}
+
+.blue-text {
+    color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.big-text {
+    font-size: 25px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+img {
+    margin-left: -50px;
+}
+
+img:hover {
+    margin-left: -5px;
+}
+
+.small-image {
+    width: 100px
+}
+
+.green-border {
+    border:3px solid green;
+    border-radius: 50%
+
+}
